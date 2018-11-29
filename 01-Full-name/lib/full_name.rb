@@ -1,5 +1,7 @@
 def full_name(first_name, last_name)
   # TODO: return the full name in a nice format
+     first_name.capitalize + " " + last_name.capitalize
+
 
 end
 

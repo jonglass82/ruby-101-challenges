@@ -1,4 +1,4 @@
-require_relative '../lib/full_name'
+require_relative '../lib/full_name.rb'
 
 describe '#full_name' do
   it 'should return a String' do
